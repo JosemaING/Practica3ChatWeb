@@ -68,7 +68,7 @@ Se sugiere no realizar modificaciones en el archivo `pom.xml` para mantener la e
 - Se ha realizado la ejecución con ANT `ant`, que compila, empaqueta y documenta.
 Se sugiere no realizar modificaciones en el archivo `build.xml` para mantener la estabilidad del proyecto.
 
-- El proyecto incluye ficheros .css, .jsp y .html para el correcto funcionamiento de la web.
+- El proyecto incluye ficheros `.css`, `.jsp` y `.html` para el correcto funcionamiento de la web.
 Tiene página de login y página de sala del chat.
 
 --------------------------------------------------------------------------------
