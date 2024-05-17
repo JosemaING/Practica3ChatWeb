@@ -46,7 +46,8 @@ Para la puesta a punto del servidor:
 2. Desde Eclipse, antes de iniciar el servidor realizar 'Alt + F5' de ambos proyectos.
 3. Asegurar que `Practica3ChatWeb-0.0.1-SNAPSHOT.jar` está añadido como resource al servidor Glassfish.
 4. Iniciar el servidor desde Eclipse.
-5. En el directorio `glassfish5\glassfish\domains\domain1\logs` ejecutar `tail -f server.log` para visualizar la depuración del servidor.
+5. Acceder al URL `http://localhost:8080/Practica3ChatWeb`.
+6. En el directorio `glassfish5\glassfish\domains\domain1\logs` ejecutar `tail -f server.log` para visualizar la depuración del servidor.
 
 --------------------------------------------------------------------------------
 USOS DEL CHAT:
