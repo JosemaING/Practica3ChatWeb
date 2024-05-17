@@ -59,7 +59,7 @@ USOS DEL CHAT:
 --------------------------------------------------------------------------------
 SUGERENCIAS:
 --------------------------------------------------------------------------------
-- Se incluyen en la carperta Screenshots, capturas del correcto funcionamiento de la aplicación.
+- Se incluyen en la carperta `Screenshots`, capturas del correcto funcionamiento de la aplicación.
 Una del login, otra del envío y recepción de mensajes y otra del desbaneo y baneo a ususarios.
 
 - Se ha realizado una limpieza del proyecto con Maven `mvn clean`.
