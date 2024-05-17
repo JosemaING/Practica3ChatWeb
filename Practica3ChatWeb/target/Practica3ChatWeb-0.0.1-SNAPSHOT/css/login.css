@@ -1,0 +1,62 @@
+@charset "ISO-8859-1";
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+
+#bg {
+  background-image: url("../img/background.jpg");
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  filter: blur(5px);
+}
+
+ body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: url("../img/background.jpg") no-repeat center center fixed;
+            background-size: cover;
+            font-family: 'Arial', sans-serif;
+        }
+        .login-container {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            width: 350px;
+            text-align: center;
+            box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
+        }
+        .login-icon {
+            width: 80px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            margin-bottom: 20px;
+            font-weight: normal;
+        }
+        .form-field {
+            margin-bottom: 15px;
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: white;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
